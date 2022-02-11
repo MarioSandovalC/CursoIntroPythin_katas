@@ -1,3 +1,5 @@
 # Curso introductorio de Python
 
-Archivos de las katas
+Se subenlos archivos de las katas de cada Modulo
+
+Mario Alejandro Sandoval Cisneros
